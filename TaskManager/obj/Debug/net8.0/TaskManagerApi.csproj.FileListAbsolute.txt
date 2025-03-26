@@ -1,6 +1,0 @@
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.csproj.AssemblyReference.cache
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.AssemblyInfoInputs.cache
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.AssemblyInfo.cs
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.csproj.CoreCompileInputs.cache
-C:\MyProjects\TaskManager\obj\Debug\net8.0\TaskManagerApi.MvcApplicationPartsAssemblyInfo.cache
